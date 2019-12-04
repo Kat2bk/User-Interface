@@ -1,0 +1,53 @@
+* {
+    border: 0.5px solid black;
+    max-width: 100%;
+}
+
+body {
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0px;
+}
+ .nav-menu {
+    /* background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%; */
+}
+.nav {
+    text-align: center;
+    /* margin: 0;
+    padding: 0; */
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 14px;
+    padding: 25px;
+} 
+
+p {
+	font-size: 15px;
+}
+
+.nav a:hover {
+	color: white;
+}
+    
+.nav a {
+	text-decoration: none;
+	color: gray;
+}
+.logo {
+	position: relative;
+	top: 10px;
+	left: 100px;
+}
+
+.h1-head, .logo2 {
+    display: inline-block;
+}
+
+.logo2 {
+
